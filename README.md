@@ -10,7 +10,7 @@ The buzzer is used to make noise if a theft attempt is made along with a siren s
 ![ArduinoUno_Connection](https://github.com/BINIT-Nayak/Theft-Protection-Ecommerce-Delivery-Robot/blob/main/ArduinoUno_Connection.png)
 
 # Vehicle
-![vehicle](https://github.com/madhyam2001/Anti-Theft-Ecommerce-Delivery-vehicle/blob/master/Images/vehicle.jpg)
+![vehicle](https://github.com/BINIT-Nayak/Theft-Protection-Ecommerce-Delivery-Robot/blob/main/vehicle.jpg)
 
 
 # Working Demonstration
