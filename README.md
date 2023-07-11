@@ -4,7 +4,7 @@ The robot is designed with integration of Arduino UNO and Arduino Mega board to 
 The buzzer is used to make noise if a theft attempt is made along with a siren system.The bot is able to deliver food and packages upto 10 kg using its powerful 4 wheel DC motor drive system. The rf control will allow it to deliver as well as thwart any theft attempts using the on board siren system.
 
 # BluePrint
-![Arduino_Mega_Connection](https://github.com/madhyam2001/Anti-Theft-Ecommerce-Delivery-vehicle/blob/master/Images/Arduino_Mega_Connection.png)
+![Arduino_Mega_Connection](https://github.com/BINIT-Nayak/Theft-Protection-Ecommerce-Delivery-Robot/blob/main/Arduino_Mega_Connection.png)
 
 
 ![ArduinoUno_Connection](https://github.com/madhyam2001/Anti-Theft-Ecommerce-Delivery-vehicle/blob/master/Images/ArduinoUno_Connection.png)
