@@ -15,4 +15,4 @@ The buzzer is used to make noise if a theft attempt is made along with a siren s
 
 # Working Demonstration
 
-[![Working Demo](https://github.com/madhyam2001/Anti-Theft-Ecommerce-Delivery-vehicle/blob/master/Images/workdemogif.gif)](https://github.com/madhyam2001/Anti-Theft-Ecommerce-Delivery-vehicle/blob/master/Working%20Demonstration.mp4)
+[![Working Demo](https://github.com/BINIT-Nayak/Theft-Protection-Ecommerce-Delivery-Robot/blob/main/workdemogif.mp4)
